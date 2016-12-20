@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+/* use variables as: var(--primary-color); */
+:root {
+  --primary-color: #0046ff;
+}

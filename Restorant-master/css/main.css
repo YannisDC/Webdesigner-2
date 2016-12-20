@@ -1,0 +1,29 @@
+#wrap{
+	margin-top:50px;
+}
+
+#wraphome {
+	background-image: url("https://images.unsplash.com/photo-1416453072034-c8dbfa2856b5");
+	background-size: cover;
+	background-position: 50% 50%;
+	background-color: blue;
+}
+
+.menu-titel{
+
+}
+
+.menu-block{
+	margin-top: 50px;
+	text-align: center;
+
+}
+
+.menu-item{
+
+}
+
+.menu-image {
+	width: 100%;
+	height: 200px;
+}

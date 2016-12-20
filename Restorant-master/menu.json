@@ -1,0 +1,52 @@
+{
+	"menu": [
+		{
+			"name": "Brood met tsatsiki",
+			"price": "29.00",
+			"description": "Lorem ipsum",
+			"image": "http://neophilia.be/food/menu1.jpg"
+		},
+		{
+			"name": "Pasta Rucolla",
+			"price": "27.00",
+			"description": "Lorem ipsum",
+			"image": "http://neophilia.be/food/menu2.jpg"
+		},
+		{
+			"name": "Gebak",
+			"price": "7.00",
+			"description": "Lorem ipsum",
+			"image": "http://neophilia.be/food/menu3.jpg"
+		},
+		{
+			"name": "Fruitlunch voor twee",
+			"price": "15.00",
+			"description": "Lorem ipsum",
+			"image": "http://neophilia.be/food/menu4.jpg"
+		},
+		{
+			"name": "Rode vruchten taart",
+			"price": "29.00",
+			"description": "Lorem ipsum",
+			"image": "http://neophilia.be/food/menu5.jpg"
+		},
+		{
+			"name": "Risotto",
+			"price": "27.00",
+			"description": "Lorem ipsum",
+			"image": "http://neophilia.be/food/menu6.jpg"
+		},
+		{
+			"name": "Pompoensoep",
+			"price": "7.00",
+			"description": "Lorem ipsum",
+			"image": "http://neophilia.be/food/menu7.jpg"
+		},
+		{
+			"name": "Bessentaart",
+			"price": "15.00",
+			"description": "Lorem ipsum",
+			"image": "http://neophilia.be/food/menu8.jpg"
+		}
+	]
+}
